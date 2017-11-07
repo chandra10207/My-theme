@@ -68,7 +68,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="w3layouts-logo">
-                            <h1><a href="index.html">Hosting <span>City</span></a></h1>
+                            <h1><a href="index.html">Github <span>Test</span></a></h1>
                         </div>
                     </div>
 
