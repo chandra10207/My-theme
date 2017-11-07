@@ -32,7 +32,7 @@ get_header(); ?>
                     </div>
                     <div class="slide" data-blurred="">
                         <div class="col-md-6 image">
-                            <img src="../images/1a.jpg" alt="Slider 1" />
+                            <img src="<?php echo get_template_directory_uri().'/images/1a.jpg'; ?>" alt="Slider 1" />
                         </div>
                         <div class="col-md-6 content">
                             <h3>Personal <span>Hosting</span></h3>
