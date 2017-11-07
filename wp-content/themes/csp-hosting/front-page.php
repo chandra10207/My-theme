@@ -20,9 +20,9 @@ get_header(); ?>
             <!-- banner -->
             <div class="page_container">
                 <div id="immersive_slider">
-                    <div class="slide" data-blurred="">
+                    <div class="slide" data-blurred="<?php echo get_template_directory_uri().'/images/3a.jpg'; ?>">
                         <div class="col-md-6 image">
-                            <img src="../images/3a.jpg" alt="Slider 1" />
+                            <img src="<?php echo get_template_directory_uri().'/images/3a.jpg'; ?>" alt="Slider 1" />
                         </div>
                         <div class="col-md-6 content">
                             <h3>Hosting <span>City</span></h3>
